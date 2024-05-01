@@ -1,0 +1,1 @@
+exports.fn1 = (a,b) => a+b;
